@@ -1,8 +1,8 @@
 usually case:
-create-react-app [project name] && yarn add redux && yarn add react-redux &&
+create-react-app [project name] && cd [project name]  && yarn add redux && yarn add react-redux &&
 yarn add react-router-dom && yarn add axios && yarn add node-sass && yarn add generate-react-cli && yarn add redux-action-creator && yarn add uuid
 
 new pc:
 
-npm i yarn -global &&  yarn add -global create-react-app && create-react-app [project name] && yarn add redux && yarn add react-redux &&
+npm i yarn -global &&  yarn add -global create-react-app && create-react-app [project name] && cd [project name] &&  yarn add redux && yarn add react-redux &&
 yarn add react-router-dom && yarn add axios && yarn add node-sass && yarn add generate-react-cli && yarn add redux-action-creator && yarn add uuid
